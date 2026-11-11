@@ -6,7 +6,7 @@ h1 {
 body {
     background-color: #F4E7C1;
     background-image:
-        radial-gradient(rgba(80, 50, 20, 0.08) 1px, transparent 1px);
+        radial-gradient(rgba(80, 50, 20, 0.20) 1px, transparent 1px);
     background-size: 4px 4px;
 
     color: #304177;
