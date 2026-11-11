@@ -19,7 +19,7 @@ body {
         ),
         radial-gradient(
             ellipse at 80% 70%,
-            rgba(100, 60, 20, 0.08),
+            rgba(100, 60, 20, 0.12),
             transparent 50%
         );
 
